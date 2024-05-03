@@ -1,7 +1,7 @@
 Ha *A*<sub>1</sub>, *A*<sub>2</sub>, ..., *A*<sub>n</sub>, *B* mondatok,
 akkor azt mondjuk, hogy az
 
-$$\frac{A_1,\\A_2,\\...\\,\\A_n}{B}$$
+$$\frac{A_1,A_2,...,A_n}{B}$$
 szimbólummal jelölt következtetés *helyes*, ha minden olyan esetben,
 amikor az *A*<sub>1</sub>, *A*<sub>2</sub>, ..., *A*<sub>n</sub>
 mondatok (az úgy nevezett *premisszák* vagy *feltételek*) mindegyike
