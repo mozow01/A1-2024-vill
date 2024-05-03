@@ -66,10 +66,10 @@ tetszőleges *t* dologra.
 $$(\forall\\ \mathrm{be})\quad\quad\frac{A(x)}{(\forall x)A(x)}$$
 ahol *x*-re semmilyen plusz megszorítás nincs.
 
-$$(\exist\\ \mathrm{be})\quad\quad\frac{A(t)}{(\exist x)A(x)}$$
+$$(\exists\\ \mathrm{be})\quad\quad\frac{A(t)}{(\exists x)A(x)}$$
 valamilyen *t* dologra.
 
-$$(\exist\\ \mathrm{ki})\quad\quad\frac{\cfrac{\\A(x)\\}{C},(\exist x)A(x)}{C}$$
+$$(\exists\\ \mathrm{ki})\quad\quad\frac{\cfrac{\\A(x)\\}{C},(\exist x)A(x)}{C}$$
 
 ### Példa
 
