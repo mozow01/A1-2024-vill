@@ -1,4 +1,4 @@
-Ha $A_1,A_2,A3,...,B$ mondatok,
+Ha $A_1,A_2,A_3,...,B$ mondatok,
 akkor azt mondjuk, hogy az
 
 $$\frac{A_1,A_2,...,A_n}{B}$$
