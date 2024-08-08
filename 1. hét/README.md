@@ -1,7 +1,25 @@
+## Bevezetés
+
+1. Valami ördög vagy ha nem hát kisnyúl.
+2. Minden krétai hazudik -- mondja egy krétai.
+3. Ki bántott? -- Senkise bántott.
+4. Ha a szinusztétel gyros illatú, akkor legalább van, ami gyros illatú.
+5. Ez a mondat hamis.
+6. Ha a kocsmában van valaki, akkor a kocsmában van valaki, aki ha iszik, akkor mindenki iszik.
+
+( 7. Ha ördög, akkor pakol, vagy ha nem, akkor kisnyúl, tehát valaki pakol vagy kisnyúl.
+  8. Ha a kocsmában van valaki, akkor a kocsmában van valaki, aki ha bárki iszik, akkor ő iszik.
+  9. Ez a mondat igaz.
+  10. Bárki felszólal, valaki megsértődik.
+  11. Feltéve hogy, ha a titkár vagy az elnök jelen volt, akkor megvan a tettes, akkor ha a titkár jelen volt, akkor is megvan a tettes és ha az elnök jelen volt akkor is megvan a tettes. )
+
+## Logikai következtetések
+
 Ha $A_1,A_2,...,A_n,B$ mondatok,
 akkor azt mondjuk, hogy az
 
 $$\frac{A_1,A_2,...,A_n}{B}$$
+
 szimbólummal jelölt következtetés *helyes*, ha minden olyan esetben,
 amikor az *A*<sub>1</sub>, *A*<sub>2</sub>, ..., *A*<sub>n</sub>
 mondatok (az úgy nevezett *premisszák* vagy *feltételek*) mindegyike
