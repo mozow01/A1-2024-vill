@@ -7,11 +7,12 @@
 5. Ez a mondat hamis.
 6. Ha a kocsmában van valaki, akkor a kocsmában van valaki, aki ha iszik, akkor mindenki iszik.
 
-( 7. Ha ördög, akkor pakol, vagy ha nem, akkor kisnyúl, tehát valaki pakol vagy kisnyúl.
-  8. Ha a kocsmában van valaki, akkor a kocsmában van valaki, aki ha bárki iszik, akkor ő iszik.
-  9. Ez a mondat igaz.
-  10. Bárki felszólal, valaki megsértődik.
-  11. Feltéve hogy, ha a titkár vagy az elnök jelen volt, akkor megvan a tettes, akkor ha a titkár jelen volt, akkor is megvan a tettes és ha az elnök jelen volt akkor is megvan a tettes. )
+( 
+7. Ha ördög, akkor pakol, vagy ha nem, akkor kisnyúl, tehát valaki pakol vagy kisnyúl.
+8. Ha a kocsmában van valaki, akkor a kocsmában van valaki, aki ha bárki iszik, akkor ő iszik.
+9. Ez a mondat igaz.
+10. Bárki felszólal, valaki megsértődik.
+11. Feltéve hogy, ha a titkár vagy az elnök jelen volt, akkor megvan a tettes, akkor ha a titkár jelen volt, akkor is megvan a tettes és ha az elnök jelen volt akkor is megvan a tettes. )
 
 ## Logikai következtetések
 
