@@ -12,3 +12,8 @@ pót zh: 2024 dec. ...
 
 aláíráspótló vizsga: 2024 dec. ...
 
+## Vázlatos tematika
+
+Sík- és térvektorok algebrája. Komplex számok. Számsorozatok. Függvényhatárérték, nevezetes határértékek. Folytonosság. Differenciálszámítás: derivált, differenciálási szabályok. Elemi függvények deriváltjai. Középértéktételek, L'Hospital-szabály. Függvényvizsgálat: lokális és globális szélsőértékek. Integrálszámítás: Riemann-integrál tulajdonságai, Newton--Leibniz-formula, primitív függvény meghatározása, parciális és helyettesítéses integrálás. Speciális integrálok kiszámítása. Improprius integrál.
+
+
