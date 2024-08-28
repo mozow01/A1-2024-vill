@@ -1,4 +1,13 @@
-# Matematika A1 villamosmérnöknek BMETEMIBsVMAT1-00
+# Matematika A1 villamosmérnököknek
+
+BMETEMIBsVMAT1-00, 8 kredit, kollokvium
+
+| előadás | gyakorlat | nagytermi gyakorlat |
+|---------|---------|-----------|
+| K: 10-12, Cs. 12-14, IB0028 | sok helyen, sok időben     | csüt 17-19 (MZ), péntek 12-14 (MT) IB027|
+| frontális, fogalmak, módszerek   | közös gyakorlás | interaktív feladatmegoldás |
+
+
 
 ## ZH információk
 
