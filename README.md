@@ -11,13 +11,13 @@ BMETEMIBsVMAT1-00, 8 kredit, kollokvium
 
 [Számonkérések ütemezése](https://www.vik.bme.hu/page/1150/)
 
-1. zh: 2024 okt. ... cs. 8-10
+1. zh: 2024. okt. 17. Cs. 8-10
 
-2. zh: 2024 nov. ... h. 18-20
+2. zh: 2024. nov. 14.  Cs. 8-10
 
-pót zh: 2024 dec. ...
+pót zh (mindkét zh-ból) : 2024. dec. 2. H. 18-20
 
-aláíráspótló vizsga: 2024 dec. ...
+aláíráspótló vizsga (mindkét zh-ból) : 2024. dec. 10. K. 10-12
 
 ## Vázlatos tematika
 
