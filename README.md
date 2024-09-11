@@ -4,7 +4,7 @@ BMETEMIBsVMAT1-00, 8 kredit, kollokvium
 
 | előadás | gyakorlat | nagytermi gyakorlat |
 |---------|---------|-----------|
-| K: 10-12, Cs: 12-14, IB028 | sok helyen, sok időben     | Cs: 17-19 (MZ), P: 12-14 (MT) IB027|
+| K: 10-12, Cs: 12-14, IB028 | sok helyen, sok időben     | Cs: 17-19 (MZ) IB027, P: 12-14 (MT) IE007|
 | frontális, fogalmak, módszerek   | közös gyakorlás | interaktív feladatmegoldás |
 
 ## ZH információk
